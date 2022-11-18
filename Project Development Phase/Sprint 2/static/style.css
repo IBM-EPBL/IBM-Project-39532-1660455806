@@ -1,0 +1,14 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#icon{
+    color: rgb(239, 193, 214);
+    padding-right: 2px;
+}
+
+.custom{   
+    background-color: #212121;
+    color: white;
+}
